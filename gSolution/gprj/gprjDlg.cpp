@@ -7,10 +7,11 @@
 #include "gprj.h"
 #include "gprjDlg.h"
 #include "afxdialogex.h"
-
+#include "CDlgImage.h"
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
+#pragma comment(linker, "/entry:WinMainCRTStartup /subsystem:console")
 
 
 // 응용 프로그램 정보에 사용되는 CAboutDlg 대화 상자입니다.
@@ -65,6 +66,8 @@ BEGIN_MESSAGE_MAP(CgprjDlg, CDialogEx)
 	ON_WM_SYSCOMMAND()
 	ON_WM_PAINT()
 	ON_WM_QUERYDRAGICON()
+	ON_BN_CLICKED(IDC_BUTTON1, &CgprjDlg::OnBnClickedButton1)
+	ON_WM_DESTROY()
 END_MESSAGE_MAP()
 
 
@@ -101,6 +104,9 @@ BOOL CgprjDlg::OnInitDialog()
 
 	// TODO: 여기에 추가 초기화 작업을 추가합니다.
 
+	m_pDlgImage = new CDlgImage();
+	m_pDlgImage->Create(IDD_CDlgImage, this);
+	m_pDlgImage->ShowWindow(SW_SHOW);
 	return TRUE;  // 포커스를 컨트롤에 설정하지 않으면 TRUE를 반환합니다.
 }
 
@@ -153,3 +159,28 @@ HCURSOR CgprjDlg::OnQueryDragIcon()
 	return static_cast<HCURSOR>(m_hIcon);
 }
 
+
+
+void CgprjDlg::OnBnClickedButton1()
+{
+	m_pDlgImage->ShowWindow(SW_SHOW);
+
+}
+
+
+void CgprjDlg::OnDestroy()
+{
+	CDialogEx::OnDestroy();
+
+	if (m_pDlgImage)
+	{
+		delete m_pDlgImage;
+	}
+	
+
+}
+
+void CgprjDlg::callFunc(int n)
+{
+	int nData = n;
+}

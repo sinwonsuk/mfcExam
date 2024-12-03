@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\mfcExam\\gSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|C:\\mfcExam\\gSolution\\gprj\\gprjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|solutionrelative:gprj\\gprjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|C:\\mfcExam\\gSolution\\gprj\\CDlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|solutionrelative:gprj\\CDlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|C:\\mfcExam\\gSolution\\gprj\\CDlgImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|solutionrelative:gprj\\CDlgImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|C:\\mfcExam\\gSolution\\gprj\\gprjDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|solutionrelative:gprj\\gprjDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|C:\\mfcExam\\gSolution\\gprj\\gprj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0087 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|solutionrelative:gprj\\gprj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0087 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|C:\\mfcExam\\gSolution\\gprj\\gprj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|solutionrelative:gprj\\gprj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|C:\\mfcExam\\gSolution\\gprj\\gprj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{6A81CAC6-CD6B-4C4A-815E-8B502E1C114B}|gprj\\gprj.vcxproj|solutionrelative:gprj\\gprj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gprj.cpp",
+              "DocumentMoniker": "C:\\mfcExam\\gSolution\\gprj\\gprj.cpp",
+              "RelativeDocumentMoniker": "gprj\\gprj.cpp",
+              "ToolTip": "C:\\mfcExam\\gSolution\\gprj\\gprj.cpp",
+              "RelativeToolTip": "gprj\\gprj.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T06:09:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gprjDlg.h",
+              "DocumentMoniker": "C:\\mfcExam\\gSolution\\gprj\\gprjDlg.h",
+              "RelativeDocumentMoniker": "gprj\\gprjDlg.h",
+              "ToolTip": "C:\\mfcExam\\gSolution\\gprj\\gprjDlg.h",
+              "RelativeToolTip": "gprj\\gprjDlg.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T06:06:15.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gprj.rc - IDD_CDlgImage - Dialog",
+              "DocumentMoniker": "C:\\mfcExam\\gSolution\\gprj\\gprj.rc",
+              "RelativeDocumentMoniker": "gprj\\gprj.rc",
+              "ToolTip": "C:\\mfcExam\\gSolution\\gprj\\gprj.rc - IDD_CDlgImage - Dialog",
+              "RelativeToolTip": "gprj\\gprj.rc - IDD_CDlgImage - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-03T06:06:08.755Z",
+              "EditorCaption": " - IDD_CDlgImage - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gprjDlg.cpp",
+              "DocumentMoniker": "C:\\mfcExam\\gSolution\\gprj\\gprjDlg.cpp",
+              "RelativeDocumentMoniker": "gprj\\gprjDlg.cpp",
+              "ToolTip": "C:\\mfcExam\\gSolution\\gprj\\gprjDlg.cpp*",
+              "RelativeToolTip": "gprj\\gprjDlg.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T06:01:34.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gprj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\mfcExam\\gSolution\\gprj\\gprj.rc",
+              "RelativeDocumentMoniker": "gprj\\gprj.rc",
+              "ToolTip": "C:\\mfcExam\\gSolution\\gprj\\gprj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "RelativeToolTip": "gprj\\gprj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-03T06:00:31.186Z",
+              "EditorCaption": " - IDD_GPRJ_DIALOG - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDlgImage.cpp",
+              "DocumentMoniker": "C:\\mfcExam\\gSolution\\gprj\\CDlgImage.cpp",
+              "RelativeDocumentMoniker": "gprj\\CDlgImage.cpp",
+              "ToolTip": "C:\\mfcExam\\gSolution\\gprj\\CDlgImage.cpp",
+              "RelativeToolTip": "gprj\\CDlgImage.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T06:00:14.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CDlgImage.h",
+              "DocumentMoniker": "C:\\mfcExam\\gSolution\\gprj\\CDlgImage.h",
+              "RelativeDocumentMoniker": "gprj\\CDlgImage.h",
+              "ToolTip": "C:\\mfcExam\\gSolution\\gprj\\CDlgImage.h",
+              "RelativeToolTip": "gprj\\CDlgImage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T05:59:48.866Z",
+              "EditorCaption": ""
             }
           ]
         }
